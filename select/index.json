@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Diet Pepsi",
+  "base_artist": "Addison Rae",
+  "createdAt": "2026-03-01T17:06:21.577856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": true,
+      "path": "select/01_Diet_Pepsi_Addison_Rae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": true,
+      "path": "select/02_Diet_Pepsi_Addison_Rae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": false,
+      "path": "select/03_Diet_Pepsi_Addison_Rae.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Addison Rae - Diet Pepsi (Official Video)",
+      "artist": "Addison Rae",
+      "has_synced": true,
+      "path": "select/04_Addison_Rae_-_Diet_Pepsi_(Official_Video)_Addison_Rae.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": true,
+      "path": "select/05_Diet_Pepsi_Addison_Rae.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": false,
+      "path": "select/06_Diet_Pepsi_Addison_Rae.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": true,
+      "path": "select/07_Diet_Pepsi_Addison_Rae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": true,
+      "path": "select/08_Diet_Pepsi_Addison_Rae.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": true,
+      "path": "select/09_Diet_Pepsi_Addison_Rae.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "AddisonRaeVEVO",
+      "has_synced": true,
+      "path": "select/10_Diet_Pepsi_AddisonRaeVEVO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": true,
+      "path": "select/11_Diet_Pepsi_Addison_Rae.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "has_synced": false,
+      "path": "select/pl_01_Diet_Pepsi_Addison_Rae.txt"
+    }
+  ]
+}
